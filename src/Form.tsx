@@ -70,6 +70,7 @@ export class Form extends React.Component<IProps, IState> {
             }
 
         });
+        // return the form object
         return returnedObj;
     };
 
